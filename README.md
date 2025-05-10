@@ -40,7 +40,7 @@
 
   <p align="center">
   <a href="mailto:diegosantos4957@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-kingego.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-diegosantos4957@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/diego-dev-web" target="_blank">
