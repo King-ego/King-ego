@@ -20,6 +20,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" height="40"/>
   </p>
 
+  ---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=King-ego&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-ego&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+
 
   <hr style="border: none; border-top: 1px solid #444; margin: 20px 0;"/>
 
