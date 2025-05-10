@@ -38,8 +38,8 @@
 
   <h2>📫 Contato</h2>
   <p>
-    <a href="mailto:kingego.dev@gmail.com" style="color: #58a6ff;">✉️ kingego.dev@gmail.com</a> <br/>
-    <a href="https://www.linkedin.com/in/seu-usuario" style="color: #58a6ff;" target="_blank">🔗 linkedin.com/in/seu-usuario</a>
+    <a href="mailto:kingego.dev@gmail.com" style="color: #58a6ff;">✉️ diegosantos4957@gmail.com</a> <br/>
+    <a href="https:/www.linkedin.com/in/diego-dev-web/" style="color: #58a6ff;" target="_blank">🔗 linkedin.com/in/diego-dev-web</a>
   </p>
 
 </div>
