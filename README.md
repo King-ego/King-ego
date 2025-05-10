@@ -37,9 +37,15 @@
   <hr style="border: none; border-top: 1px solid #444; margin: 20px 0;"/>
 
   <h2>📫 Contato</h2>
-  <p>
-    <a href="mailto:kingego.dev@gmail.com" style="color: #58a6ff;">✉️ diegosantos4957@gmail.com</a> <br/>
-    <a href="https://linkedin.com/in/diego-dev-web/" style="color: #58a6ff;">🔗 linkedin.com/in/diego-dev-web</a>
-  </p>
+
+  <p align="center">
+  <a href="mailto:diegosantos4957@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-kingego.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/diego-dev-web" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
