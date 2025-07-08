@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Email-diegosantos4957@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/diego-dev-web" target="_blank">
+  <a href="https://www.linkedin.com/in/dsilva-tech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
