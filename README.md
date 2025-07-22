@@ -29,11 +29,12 @@
 
   ---
 
-### <h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=King-ego&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-ego&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-ego&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 
