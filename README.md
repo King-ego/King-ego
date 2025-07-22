@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=King-ego&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-ego&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
   <br />
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=King-ego&theme=tokyonight" alt="GitHub Trophies" height="150" />
 </p>
 
