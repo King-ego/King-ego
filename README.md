@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-ego&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
   <br />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=King-ego&theme=tokyonight" alt="GitHub Trophies" height="150" />](https://github-readme-streak-stats.herokuapp.com/?user=King-ego&theme=vue-dark&hide_border=true)
+  <img src="https://github-profile-trophy.vercel.app/?username=King-ego&theme=tokyonight" alt="GitHub Trophies" height="150" />
 </p>
 
 
