@@ -37,6 +37,9 @@
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=King-ego&theme=tokyonight" alt="GitHub Trophies" height="150" />
+  <br />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-ego&theme=vue-dark&hide_border=true" alt="GitHub Metrics" height="150" />
 </p>
 
 
