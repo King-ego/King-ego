@@ -1,6 +1,6 @@
 <div align="center" style="padding: 20px; border-radius: 15px; background: #1e1e2f; color: #ffffff; box-shadow: 0 0 20px rgba(0,0,0,0.3); max-width: 800px; margin: auto;">
 
-  <h1>👋 Hello, I am Diego dos Santos Silva.</h1>
+  <h1>Hello, I am Diego dos Santos Silva.</h1>
   <h3><strong>Full Stack</strong> Developer passionate about technology</h3>
 
   <p>
@@ -10,7 +10,7 @@
 
   <hr style="border: none; border-top: 1px solid #444; margin: 20px 0;"/>
 
-  <h2>🚀 Technologies I Work With</h2>
+  <h2>Technologies I Work With</h2>
 <p>
   These are some of the core technologies I use to build high-quality web applications. From frontend frameworks like <strong>React</strong>, <strong>Vue</strong>, <strong>Angular</strong>, and <strong>Next.js</strong> to powerful backend tools like <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>Express.js</strong> and <strong>GoLang</strong>.
 </p>
